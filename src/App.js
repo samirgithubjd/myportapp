@@ -13,39 +13,21 @@ import Error from "./Error";
 
 
 function App() {
-    return ( <
-        div className = "App" >
-        <
-        HashRouter >
-        <
-        PageNavbar / >
-        <
-        Routes >
-        <
-        Route exact path = '/'
-        element = { < Home / > }
-        /> <
-        Route exact path = 'Skills'
-        element = { < Skills / > }
-        /> <
-        Route exact path = 'Project'
-        element = { < Project / > }
-        /> <
-        Route exact path = 'Contect'
-        element = { < Contect / > }
-        /> <
-        Route exact path = 'MovieTic'
-        element = { < MovieTic / > }
-        /> <
-        Route exact path = 'About'
-        element = { < About / > }
-        /> <
-        Route exact path = '*'
-        element = { < Error / > }
-        /> <
-        /Routes> <
-        /HashRouter> <
-        /div>
+    return ( 
+        <div className = "App" >
+            <HashRouter>
+                <PageNavbar />
+                    <Routes>
+                        <Route exact path = '/' element = { < Home /> }/>
+                        <Route exact path = 'Skills' element = { < Skills /> }/>
+                        <Route exact path = 'Project' element = { < Project /> }/> 
+                        <Route exact path = 'Contect' element = { < Contect /> }/>
+                        <Route exact path = 'MovieTic' element = { < MovieTic /> }/> 
+                        <Route exact path = 'About' element = { < About /> }/> 
+                        <Route exact path = '*' element = { < Error /> }/> 
+                    </Routes> 
+            </HashRouter>
+        </div>
     );
 }
 
