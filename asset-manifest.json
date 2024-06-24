@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/myportapp/static/css/main.261824e4.css",
+    "main.js": "/myportapp/static/js/main.0ddfd459.js",
+    "static/js/453.199dfe30.chunk.js": "/myportapp/static/js/453.199dfe30.chunk.js",
+    "static/media/myPic.jpg": "/myportapp/static/media/myPic.9434af8e98715f4c42ca.jpg",
+    "static/media/reactlogo.png": "/myportapp/static/media/reactlogo.73f945d2e7eb7f254677.png",
+    "static/media/csslogo.png": "/myportapp/static/media/csslogo.9d0a3df9c205fe28eed5.png",
+    "static/media/jslogo.png": "/myportapp/static/media/jslogo.ced854e37aaa79453da4.png",
+    "static/media/samir.pdf": "/myportapp/static/media/samir.16c6e9d87a72a427c5c0.pdf",
+    "static/media/HTMLlogo.png": "/myportapp/static/media/HTMLlogo.3ab9e337431881347cdb.png",
+    "index.html": "/myportapp/index.html",
+    "static/media/MovieTic.JSX": "/myportapp/static/media/MovieTic.0f6dafb394261dd5ad5e.JSX",
+    "main.261824e4.css.map": "/myportapp/static/css/main.261824e4.css.map",
+    "main.0ddfd459.js.map": "/myportapp/static/js/main.0ddfd459.js.map",
+    "453.199dfe30.chunk.js.map": "/myportapp/static/js/453.199dfe30.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.261824e4.css",
+    "static/js/main.0ddfd459.js"
+  ]
+}
